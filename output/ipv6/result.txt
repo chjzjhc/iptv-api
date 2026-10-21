@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-20 00:48:18,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-10-21 22:50:58,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -11,11 +11,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 📡卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
-湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k$订阅源
-湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k$订阅源
-东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810$订阅源
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
-四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan4k$订阅源
 
 ☘️湖北频道,#genre#
